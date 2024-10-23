@@ -49,3 +49,9 @@ pip install streamlit pandas boto3 python-docx
 streamlit run app.py
 
 
+
+
+
+<img width="786" alt="Screenshot 2024-10-23 at 3 25 30 PM" src="https://github.com/user-attachments/assets/8018ff82-f2f2-46db-8201-7eac0519a8bd">
+
+
