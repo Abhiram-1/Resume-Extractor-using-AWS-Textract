@@ -44,7 +44,7 @@ I completed this project to:
 
 pip install streamlit pandas boto3 python-docx
 
-###Run the Streamlit app
+### Run the Streamlit app
 
 streamlit run app.py
 
